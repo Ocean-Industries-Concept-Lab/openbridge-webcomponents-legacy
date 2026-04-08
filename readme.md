@@ -3,7 +3,7 @@
 **Important:** Development of the OpenBridge Web Components has been consolidated and moved to a new primary repository to centralize development, issues, and settings.
 
 **All active development is now located here:**
-👉 **[https://github.com/Ocean-Industries-Concept-Lab/openbridge-webcomponents](Ocean-Industries-Concept-Lab/openbridge-webcomponents)**
+👉 **[Ocean-Industries-Concept-Lab/openbridge-webcomponents](https://github.com/Ocean-Industries-Concept-Lab/openbridge-webcomponents)**
 
 ---
 
