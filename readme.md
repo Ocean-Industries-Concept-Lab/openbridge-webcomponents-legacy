@@ -1,4 +1,4 @@
-# ⚠️ Project Moved / Deprecated
+# ⚠️ Project Moved
 
 **Important:** Development of the OpenBridge Web Components has been consolidated and moved to a new primary repository to centralize development, issues, and settings.
 
