@@ -1,7 +1,0 @@
-@define-mixin card {
-  border-radius: 8px;
-  background: var(--container-global-color, #fcfcfc);
-
-  /* Shadow/Floating */
-  box-shadow: var(--shadow-floating);
-}

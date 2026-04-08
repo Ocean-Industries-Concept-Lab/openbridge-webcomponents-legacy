@@ -1,6 +1,6 @@
-# ⚠️ Project Moved
+# ⚠️ Project Moved ⚠️
 
-**Important:** Development of the OpenBridge Web Components has been consolidated and moved to a new primary repository to centralize development, issues, and settings.
+**Important:** Development of the OpenBridge Web Components has been consolidated and moved to a new primary repository to centralize development.
 
 **All active development is now located here:**
 👉 **[Ocean-Industries-Concept-Lab/openbridge-webcomponents](https://github.com/Ocean-Industries-Concept-Lab/openbridge-webcomponents)**

@@ -1,7 +1,0 @@
-@define-mixin font-button {
-  font-family: 'Noto Sans';
-  font-size: 1rem;
-  font-style: normal;
-  font-weight: 570;
-  line-height: 1.5rem; /* 150% */
-}

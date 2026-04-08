@@ -1,9 +1,0 @@
-@define-mixin font-body {
-    /* UI/Body */
-    font-family: 'Noto Sans';
-    font-size: 16px;
-    font-style: normal;
-    font-weight: 370;
-    line-height: 24px; /* 150% */
-    text-decoration: none;
-}
