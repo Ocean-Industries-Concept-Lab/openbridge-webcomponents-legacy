@@ -1,4 +1,5 @@
 # ⚠️ Project Moved ⚠️
+👉 **[Ocean-Industries-Concept-Lab/openbridge-webcomponents](https://github.com/Ocean-Industries-Concept-Lab/openbridge-webcomponents)**
 
 **Important:** Development of the OpenBridge Web Components has been consolidated and moved to a new primary repository to centralize development.
 
